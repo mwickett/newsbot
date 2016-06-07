@@ -1,3 +1,16 @@
+## Slack Link Bot
+
+Users submit links that they want to share with the team. They add a short description to the link (why they're sharing it, why it matters) and this gets stored with the link.
+
+Then when other users are ready to read (when they feel like they have a few minutes of downtime) they can request the latest shared links and see them.
+
+
+*OR*
+
+Should we have the saved links drop into a specific channel?
+
+
+
 # [Botkit](http://howdy.ai/botkit) - Building Blocks for Building Bots
 
 [![npm](https://img.shields.io/npm/v/botkit.svg)](https://www.npmjs.com/package/botkit)
